@@ -23,6 +23,5 @@ Usage
 12. Repeat the process for each page in the PDF file.
 13. The script completes and exits.
 
-Make sure to replace <pdf_file> with the actual path to the PDF file you want to extract text from.
-
-To run the script, execute the command mentioned in the "Usage" section, and ensure that the pdfreader library is installed.
+➡️Make sure to replace <pdf_file> with the actual path to the PDF file you want to extract text from.
+➡️To run the script, execute the command mentioned in the "Usage" section, and ensure that the pdfreader library is installed.
