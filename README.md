@@ -4,7 +4,7 @@ This script extracts text from a PDF file and saves each page's text into separa
 Usage
   ```shell
   python main.py <pdf_file>
-
+  ```
 ## Dependencies
 - pdfreader: Install it using pip install pdfreader.
 
